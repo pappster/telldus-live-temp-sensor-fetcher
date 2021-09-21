@@ -1,0 +1,18 @@
+﻿{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConsumerKey": "",
+    "ConsumerKeySecret": "",
+    "AccessToken": "",
+    "AccessTokenSecret": "",
+    "SensorName": "Förråd ute",
+    "TimeTrigger": "0 */15 * * * *",
+    "SenderEmail": "@gmail.com",
+    "SenderPassword": "",
+    "SmtpServer": "smtp.gmail.com",
+    "SmtpServerPort": 587,
+    "ReceiverEmail": ""
+  }
+}
